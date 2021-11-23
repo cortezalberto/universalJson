@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1,
+  "name": "Cafetera Moulinex",
+  "price": "6770",
+  "descuento": "40",
+  "image": "img-cafetera-moulinex.jpg"
+ },
+ {
+  "id": 2,
+  "name": "MacBook Pro 2021",
+  "price": "230000",
+  "descuento": "20",
+  "image": "img-macbook-pro-2019.jpg"
+ },
+ {
+  "id": "3",
+  "name": "otrogalaxy",
+  "price": "5",
+  "descuento": "6",
+  "image": "fotogs"
+ },
+ {
+  "id": 4,
+  "name": "bunbuja",
+  "price": "56",
+  "descuento": "6",
+  "image": "fpt"
+ },
+ {
+  "id": 5,
+  "name": "bunbuja",
+  "price": "56",
+  "descuento": "6",
+  "image": "ottt"
+ }
+]
